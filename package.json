@@ -1,0 +1,24 @@
+{
+  "name": "Personal_Site",
+  "version": "1.0.0",
+  "description": "<h2>My Personal Website</h2>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zethporter/Personal_Site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zethporter/Personal_Site/issues"
+  },
+  "homepage": "https://github.com/zethporter/Personal_Site#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
